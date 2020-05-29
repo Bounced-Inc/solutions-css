@@ -1,5 +1,5 @@
 {
-  "name": "opentok-solutions-css",
+  "name": "@bouncedinc/opentok-solutions-css",
   "version": "0.0.43",
   "description": "Consolidated CSS for OpenTok Accelerator Packs",
   "main": "style.css",
